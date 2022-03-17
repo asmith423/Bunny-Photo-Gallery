@@ -1,0 +1,15 @@
+img {
+  width: 350px;
+  height: 150px;
+  object-fit: cover;
+}
+
+div.gallery {
+  margin: 20px;
+  float: left;
+}
+
+h1 {
+    font-size: 60px;
+    font-family: 'Gamja Flower', cursive;
+}
